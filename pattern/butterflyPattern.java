@@ -1,3 +1,4 @@
+package pattern;
 public class butterflyPattern {
     public static void butterfly(int n){
         //1st half

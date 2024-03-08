@@ -1,3 +1,4 @@
+package pattern;
 public class invertedPiramid {
     public static void inverted_rotated_half_pyramid(int n){
         for (int i = 1; i <= n; i++){

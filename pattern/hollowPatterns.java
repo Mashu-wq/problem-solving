@@ -1,3 +1,4 @@
+package pattern;
 public class hollowPatterns {
     public static void hollow_rectangle(int totRows, int totCols){
         for (int i = 1; i <= totRows; i++){
