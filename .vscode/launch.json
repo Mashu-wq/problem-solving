@@ -1,0 +1,273 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "MostFrequentNumberFollowingKey",
+      "request": "launch",
+      "mainClass": "ArrayList.MostFrequentNumberFollowingKey",
+      "projectName": "problem-solving_cde824b3"
+    },
+    {
+      "type": "java",
+      "name": "MonotonicArrayList",
+      "request": "launch",
+      "mainClass": "ArrayList.MonotonicArrayList",
+      "projectName": "problem-solving_cde824b3"
+    },
+    {
+      "type": "java",
+      "name": "PairSum2",
+      "request": "launch",
+      "mainClass": "ArrayList.PairSum2",
+      "projectName": "problem-solving_cde824b3"
+    },
+    {
+      "type": "java",
+      "name": "PairSum",
+      "request": "launch",
+      "mainClass": "ArrayList.PairSum",
+      "projectName": "problem-solving_cde824b3"
+    },
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "buyAndSellStock",
+      "request": "launch",
+      "mainClass": "ARRAYS.buyAndSellStock",
+      "projectName": "problem-solving_cde824b3"
+    },
+    {
+      "type": "java",
+      "name": "findLargestKth",
+      "request": "launch",
+      "mainClass": "ARRAYS.findLargestKth",
+      "projectName": "problem-solving_cde824b3"
+    },
+    {
+      "type": "java",
+      "name": "pairWithaGivenSum",
+      "request": "launch",
+      "mainClass": "ARRAYS.pairWithaGivenSum",
+      "projectName": "problem-solving_cde824b3"
+    },
+    {
+      "type": "java",
+      "name": "repeatAndMissingNumberArray",
+      "request": "launch",
+      "mainClass": "ARRAYS.repeatAndMissingNumberArray",
+      "projectName": "problem-solving_cde824b3"
+    },
+    {
+      "type": "java",
+      "name": "rotatedSortedArraySearch",
+      "request": "launch",
+      "mainClass": "ARRAYS.rotatedSortedArraySearch",
+      "projectName": "problem-solving_cde824b3"
+    },
+    {
+      "type": "java",
+      "name": "threeSum",
+      "request": "launch",
+      "mainClass": "ARRAYS.threeSum",
+      "projectName": "problem-solving_cde824b3"
+    },
+    {
+      "type": "java",
+      "name": "MultidimensionalArrayList",
+      "request": "launch",
+      "mainClass": "ArrayList.MultidimensionalArrayList",
+      "projectName": "problem-solving_cde824b3"
+    },
+    {
+      "type": "java",
+      "name": "maxWater",
+      "request": "launch",
+      "mainClass": "ArrayList.maxWater",
+      "projectName": "problem-solving_cde824b3"
+    },
+    {
+      "type": "java",
+      "name": "YogurtSale",
+      "request": "launch",
+      "mainClass": "Contest.YogurtSale",
+      "projectName": "problem-solving_cde824b3"
+    },
+    {
+      "type": "java",
+      "name": "SortedAndRotedArray",
+      "request": "launch",
+      "mainClass": "DivideConquere.SortedAndRotedArray",
+      "projectName": "problem-solving_cde824b3"
+    },
+    {
+      "type": "java",
+      "name": "merge",
+      "request": "launch",
+      "mainClass": "DivideConquere.merge",
+      "projectName": "problem-solving_cde824b3"
+    },
+    {
+      "type": "java",
+      "name": "quickSort",
+      "request": "launch",
+      "mainClass": "DivideConquere.quickSort",
+      "projectName": "problem-solving_cde824b3"
+    },
+    {
+      "type": "java",
+      "name": "bubbleSortDescending",
+      "request": "launch",
+      "mainClass": "SORTING.bubbleSortDescending",
+      "projectName": "problem-solving_cde824b3"
+    },
+    {
+      "type": "java",
+      "name": "DuplicateCharacterCount",
+      "request": "launch",
+      "mainClass": "Strings.DuplicateCharacterCount",
+      "projectName": "problem-solving_cde824b3"
+    },
+    {
+      "type": "java",
+      "name": "EquivalentMobileNumericKeypad",
+      "request": "launch",
+      "mainClass": "Strings.EquivalentMobileNumericKeypad",
+      "projectName": "problem-solving_cde824b3"
+    },
+    {
+      "type": "java",
+      "name": "Palindrome",
+      "request": "launch",
+      "mainClass": "Strings.Palindrome",
+      "projectName": "problem-solving_cde824b3"
+    },
+    {
+      "type": "java",
+      "name": "ShortestPath",
+      "request": "launch",
+      "mainClass": "Strings.ShortestPath",
+      "projectName": "problem-solving_cde824b3"
+    },
+    {
+      "type": "java",
+      "name": "StringCompressor",
+      "request": "launch",
+      "mainClass": "Strings.StringCompressor",
+      "projectName": "problem-solving_cde824b3"
+    },
+    {
+      "type": "java",
+      "name": "UpperCase",
+      "request": "launch",
+      "mainClass": "Strings.UpperCase",
+      "projectName": "problem-solving_cde824b3"
+    },
+    {
+      "type": "java",
+      "name": "chocholateDistribution",
+      "request": "launch",
+      "mainClass": "Strings.chocholateDistribution",
+      "projectName": "problem-solving_cde824b3"
+    },
+    {
+      "type": "java",
+      "name": "largestString",
+      "request": "launch",
+      "mainClass": "Strings.largestString",
+      "projectName": "problem-solving_cde824b3"
+    },
+    {
+      "type": "java",
+      "name": "stringBuilder",
+      "request": "launch",
+      "mainClass": "Strings.stringBuilder",
+      "projectName": "problem-solving_cde824b3"
+    },
+    {
+      "type": "java",
+      "name": "subString",
+      "request": "launch",
+      "mainClass": "Strings.subString",
+      "projectName": "problem-solving_cde824b3"
+    },
+    {
+      "type": "java",
+      "name": "Palindromic_Pattern",
+      "request": "launch",
+      "mainClass": "pattern.Palindromic_Pattern",
+      "projectName": "problem-solving_cde824b3"
+    },
+    {
+      "type": "java",
+      "name": "ZeroOneTriangle",
+      "request": "launch",
+      "mainClass": "pattern.ZeroOneTriangle",
+      "projectName": "problem-solving_cde824b3"
+    },
+    {
+      "type": "java",
+      "name": "butterflyPattern",
+      "request": "launch",
+      "mainClass": "pattern.butterflyPattern",
+      "projectName": "problem-solving_cde824b3"
+    },
+    {
+      "type": "java",
+      "name": "diamondPattern",
+      "request": "launch",
+      "mainClass": "pattern.diamondPattern",
+      "projectName": "problem-solving_cde824b3"
+    },
+    {
+      "type": "java",
+      "name": "floydsTriangle",
+      "request": "launch",
+      "mainClass": "pattern.floydsTriangle",
+      "projectName": "problem-solving_cde824b3"
+    },
+    {
+      "type": "java",
+      "name": "hollowPatterns",
+      "request": "launch",
+      "mainClass": "pattern.hollowPatterns",
+      "projectName": "problem-solving_cde824b3"
+    },
+    {
+      "type": "java",
+      "name": "hollowRomhbus",
+      "request": "launch",
+      "mainClass": "pattern.hollowRomhbus",
+      "projectName": "problem-solving_cde824b3"
+    },
+    {
+      "type": "java",
+      "name": "invertedPiramid",
+      "request": "launch",
+      "mainClass": "pattern.invertedPiramid",
+      "projectName": "problem-solving_cde824b3"
+    },
+    {
+      "type": "java",
+      "name": "numberPyramid",
+      "request": "launch",
+      "mainClass": "pattern.numberPyramid",
+      "projectName": "problem-solving_cde824b3"
+    },
+    {
+      "type": "java",
+      "name": "solidRhombus",
+      "request": "launch",
+      "mainClass": "pattern.solidRhombus",
+      "projectName": "problem-solving_cde824b3"
+    }
+  ]
+}
