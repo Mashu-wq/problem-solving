@@ -6,6 +6,41 @@
   "configurations": [
     {
       "type": "java",
+      "name": "TransposeMatrix",
+      "request": "launch",
+      "mainClass": "TwoDArrays.TransposeMatrix",
+      "projectName": "problem-solving_cde824b3"
+    },
+    {
+      "type": "java",
+      "name": "SumOfSecondRowNums",
+      "request": "launch",
+      "mainClass": "TwoDArrays.SumOfSecondRowNums",
+      "projectName": "problem-solving_cde824b3"
+    },
+    {
+      "type": "java",
+      "name": "numberOf7s",
+      "request": "launch",
+      "mainClass": "TwoDArrays.numberOf7s",
+      "projectName": "problem-solving_cde824b3"
+    },
+    {
+      "type": "java",
+      "name": "LinkedList",
+      "request": "launch",
+      "mainClass": "LinkedList.LinkedList",
+      "projectName": "problem-solving_cde824b3"
+    },
+    {
+      "type": "java",
+      "name": "AddFirst",
+      "request": "launch",
+      "mainClass": "LinkedList.AddFirst",
+      "projectName": "problem-solving_cde824b3"
+    },
+    {
+      "type": "java",
       "name": "MostFrequentNumberFollowingKey",
       "request": "launch",
       "mainClass": "ArrayList.MostFrequentNumberFollowingKey",
