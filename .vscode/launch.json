@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "addSum",
+      "request": "launch",
+      "mainClass": "TwoDArrays.addSum",
+      "projectName": "problem-solving_cde824b3"
+    },
+    {
+      "type": "java",
       "name": "TransposeMatrix",
       "request": "launch",
       "mainClass": "TwoDArrays.TransposeMatrix",
