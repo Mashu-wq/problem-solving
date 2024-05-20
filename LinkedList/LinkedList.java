@@ -177,6 +177,65 @@ public class LinkedList {
         return;
     }
 
+    public Node findMid(Node head){
+        Node slow = head;
+        Node fast = head;
+        while(fast != null && fast.next != null){
+            slow = slow.next;
+            fast = fast.next.next;
+        }
+        return slow;
+    }
+
+    public boolean checkPalindrome(){
+        //base case
+        if(head == null || head.next == null){
+            return true;
+        }
+        //step1 - find mid
+        Node midNode = findMid(head);
+
+        //step2 - reverse 2nd half
+        Node prev = null;
+        Node curr = midNode;
+        Node next;
+        while(curr != null){
+            next = curr.next;
+            curr.next = prev;
+            prev = curr;
+            curr = next;
+        }
+        Node right = prev; //head of 2nd half
+        Node left = head; //head of 1st half
+
+        //step3 - check left half and right half
+        while(right != null){
+            if(left.data != right.data){
+                return false;
+            }
+            left = left.next;
+            right = right.next;
+        }
+        return true;
+
+    }
+
+    public boolean isCycle(){  // Floyd's Cycle finding algorithm (Floyd's CFA)
+        Node slow = head;
+        Node fast = head;
+        while(fast != null && fast.next != null){
+            slow = slow.next;
+            fast = fast.next;
+
+            if(slow == fast){
+                return true;
+            }
+        }
+
+        return false;
+    }
+    
+
     public void print(){
         if (head == null){
             System.out.println("LL is empty");
