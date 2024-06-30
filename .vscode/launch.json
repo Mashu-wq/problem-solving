@@ -6,6 +6,104 @@
   "configurations": [
     {
       "type": "java",
+      "name": "nQueenOneSolution",
+      "request": "launch",
+      "mainClass": "Backtracking.nQueenOneSolution",
+      "projectName": "problem-solving_cde824b3"
+    },
+    {
+      "type": "java",
+      "name": "nQueens",
+      "request": "launch",
+      "mainClass": "Backtracking.nQueens",
+      "projectName": "problem-solving_cde824b3"
+    },
+    {
+      "type": "java",
+      "name": "Permutation",
+      "request": "launch",
+      "mainClass": "Backtracking.Permutation",
+      "projectName": "problem-solving_cde824b3"
+    },
+    {
+      "type": "java",
+      "name": "FindSubset",
+      "request": "launch",
+      "mainClass": "Backtracking.FindSubset",
+      "projectName": "problem-solving_cde824b3"
+    },
+    {
+      "type": "java",
+      "name": "ques1",
+      "request": "launch",
+      "mainClass": "Recursion.ques1",
+      "projectName": "problem-solving_cde824b3"
+    },
+    {
+      "type": "java",
+      "name": "binaryString",
+      "request": "launch",
+      "mainClass": "Recursion.binaryString",
+      "projectName": "problem-solving_cde824b3"
+    },
+    {
+      "type": "java",
+      "name": "friendsPairing",
+      "request": "launch",
+      "mainClass": "Recursion.friendsPairing",
+      "projectName": "problem-solving_cde824b3"
+    },
+    {
+      "type": "java",
+      "name": "removeDuplicate",
+      "request": "launch",
+      "mainClass": "Recursion.removeDuplicate",
+      "projectName": "problem-solving_cde824b3"
+    },
+    {
+      "type": "java",
+      "name": "TilingProblem",
+      "request": "launch",
+      "mainClass": "Recursion.TilingProblem",
+      "projectName": "problem-solving_cde824b3"
+    },
+    {
+      "type": "java",
+      "name": "optimizedPower",
+      "request": "launch",
+      "mainClass": "Recursion.optimizedPower",
+      "projectName": "problem-solving_cde824b3"
+    },
+    {
+      "type": "java",
+      "name": "RecursionBasic",
+      "request": "launch",
+      "mainClass": "Recursion.RecursionBasic",
+      "projectName": "problem-solving_cde824b3"
+    },
+    {
+      "type": "java",
+      "name": "printInc",
+      "request": "launch",
+      "mainClass": "Recursion.printInc",
+      "projectName": "problem-solving_cde824b3"
+    },
+    {
+      "type": "java",
+      "name": "printDec",
+      "request": "launch",
+      "mainClass": "Recursion.printDec",
+      "projectName": "problem-solving_cde824b3"
+    },
+    {
+      "type": "java",
+      "name": "stackB",
+      "request": "launch",
+      "mainClass": "STACK.stackB",
+      "projectName": "problem-solving_cde824b3"
+    },
+    {
+      "type": "java",
       "name": "addSum",
       "request": "launch",
       "mainClass": "TwoDArrays.addSum",
