@@ -6,6 +6,76 @@
   "configurations": [
     {
       "type": "java",
+      "name": "merge_without_extra_space",
+      "request": "launch",
+      "mainClass": "SORTING.merge_without_extra_space",
+      "projectName": "problem-solving_cde824b3"
+    },
+    {
+      "type": "java",
+      "name": "tripletSum",
+      "request": "launch",
+      "mainClass": "SORTING.tripletSum",
+      "projectName": "problem-solving_cde824b3"
+    },
+    {
+      "type": "java",
+      "name": "majority_element",
+      "request": "launch",
+      "mainClass": "SORTING.majority_element",
+      "projectName": "problem-solving_cde824b3"
+    },
+    {
+      "type": "java",
+      "name": "pair_difference",
+      "request": "launch",
+      "mainClass": "SORTING.pair_difference",
+      "projectName": "problem-solving_cde824b3"
+    },
+    {
+      "type": "java",
+      "name": "common_element",
+      "request": "launch",
+      "mainClass": "SORTING.common_element",
+      "projectName": "problem-solving_cde824b3"
+    },
+    {
+      "type": "java",
+      "name": "arrayReverse",
+      "request": "launch",
+      "mainClass": "ARRAYS.arrayReverse",
+      "projectName": "problem-solving_cde824b3"
+    },
+    {
+      "type": "java",
+      "name": "min_max",
+      "request": "launch",
+      "mainClass": "ARRAYS.min_max",
+      "projectName": "problem-solving_cde824b3"
+    },
+    {
+      "type": "java",
+      "name": "reverseAstack",
+      "request": "launch",
+      "mainClass": "STACK.reverseAstack",
+      "projectName": "problem-solving_cde824b3"
+    },
+    {
+      "type": "java",
+      "name": "reverseAstring",
+      "request": "launch",
+      "mainClass": "STACK.reverseAstring",
+      "projectName": "problem-solving_cde824b3"
+    },
+    {
+      "type": "java",
+      "name": "PushBottom",
+      "request": "launch",
+      "mainClass": "STACK.PushBottom",
+      "projectName": "problem-solving_cde824b3"
+    },
+    {
+      "type": "java",
       "name": "nQueenOneSolution",
       "request": "launch",
       "mainClass": "Backtracking.nQueenOneSolution",
